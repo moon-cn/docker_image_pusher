@@ -1,2 +1,4 @@
 nginx
 centos:7
+node:16-alpine
+node:18-alpine
