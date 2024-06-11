@@ -3,4 +3,4 @@ centos:7
 node:16-alpine
 node:18-alpine
 openjdk:8-alpine
-openjdk:22-alpine
+openjdk:17-alpine
