@@ -6,3 +6,4 @@ node:18-alpine
 openjdk:8-alpine
 openjdk:17-alpine
 ubuntu:latest
+maven:3-amazoncorretto-17
