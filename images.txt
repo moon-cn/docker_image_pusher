@@ -7,3 +7,4 @@ openjdk:8-alpine
 openjdk:17-alpine
 ubuntu:latest
 maven:3-amazoncorretto-17
+maven:3
