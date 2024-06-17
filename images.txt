@@ -1,11 +1,13 @@
 nginx:latest
 centos:7
+ubuntu:latest
+ubuntu:24
 node:14-alpine
 node:16-alpine
 node:18-alpine
 openjdk:8-alpine
 openjdk:17-alpine
-ubuntu:latest
+openjdk:17.0.2-oracle
 maven:3-amazoncorretto-17
 maven:3
-openjdk:17.0.2-oracle
+
